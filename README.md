@@ -1,1 +1,1 @@
-Gioi thieu: Toi la <Nhan>, MSSV<221592>.
+Đây là README từ nhánh conflict-demo.
